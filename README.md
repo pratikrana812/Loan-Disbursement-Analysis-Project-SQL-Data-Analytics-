@@ -1,0 +1,2 @@
+# Loan-Disbursement-Analysis-Project-SQL-Data-Analytics-
+Developed KPI dashboards to track total applications, disbursement rates, and credit bureau performance. Performed branch-wise and field executive performance analysis to identify top and low performers. Built a pipeline funnel (CGT stages) to understand loan processing stages and drop-offs. Conducted borrower segmentation (new vs repeat customers)
